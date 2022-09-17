@@ -1,0 +1,1 @@
+TaskKill /F /IM osu!.exe

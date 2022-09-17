@@ -1,0 +1,1 @@
+start D:\osu!\osu!.exe

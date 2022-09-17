@@ -1,0 +1,1 @@
+nircmd.exe setdefaultsounddevice "ASUS VN247-4"
